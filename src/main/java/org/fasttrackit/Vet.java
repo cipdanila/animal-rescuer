@@ -4,4 +4,6 @@ public class Vet {
 
     String vetName;
     String vetSpecialization;
+    int vetAge;
+    String vetLocation;
 }
