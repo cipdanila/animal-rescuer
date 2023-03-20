@@ -2,7 +2,7 @@ package org.fasttrackit;
 
 public class Game {
 
-    String adopterName;
-    String petName;
-    String vetName;
+    Pet pet;
+    Adopter adopter;
+    Vet vet;
 }
